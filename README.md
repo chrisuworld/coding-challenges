@@ -10,11 +10,4 @@ Mastery of Data Structures and Algorithms helps us build scalable programs that 
 
 These challenges come from a variety of sources including Codewars, LeetCode, Leon Noel, textbooks, freeCodeCamp, etc.
 
-## My codewars stats:
-![image](https://www.codewars.com/users/DevinCLane/badges/large)
 
-[My Profile](https://www.codewars.com/users/DevinCLane)
-
-### License
-
-[Codewars license](https://www.codewars.com/about/terms-of-service): FreeBSD 2-Clause License
